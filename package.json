@@ -1,0 +1,16 @@
+{
+  "name": "generator-vue-project",
+  "version": "1.0.0",
+  "description": "Vue project egen",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^1.1.1"
+  }
+}
